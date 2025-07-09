@@ -24,7 +24,7 @@ Projeto desenvolvido para fins de estudo e prática em desenvolvimento web.
 
 ## 🔗 Acesse o projeto online
 
-👉 🔗 Acesse o projeto aqui:https://matheuscr19-coder.github.io/gerador-senhas/
+👉 🔗 Acesse o projeto aqui: [Gerador de Senhas](https://matheuscr19-coder.github.io/gerador-senhas/)
 
 > *Substitua pelo seu link real quando subir para o GitHub Pages.*
 
