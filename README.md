@@ -1,16 +1,16 @@
-# 📋 To-Do List
+# 🔐 Gerador de Senhas
 
-Projeto desenvolvido com HTML, CSS e JavaScript para criar uma lista de tarefas com horário e data.
-Projeto desenvolvido para fins de estudo e prática em desenvolvimento web.
+Projeto desenvolvido com HTML, CSS e JavaScript para gerar senhas aleatórias de forma rápida e segura.
+Projeto desenvolvido como prática em desenvolvimento web com foco em aplicações simples e úteis.
 
 ---
 
 ## ✅ Funcionalidades
 
-- Adiciona tarefas com **texto, horário e data**
-- Exibe as tarefas em uma lista ordenada
-- Permite excluir tarefas com um clique
-- Layout com tema claro, tons de laranja e design responsivo
+- Geração automática de senhas seguras
+- Botão para copiar a senha gerada
+- Interface simples e responsiva
+- Estilo visual inspirado em segurança digital
 
 ---
 
@@ -34,19 +34,18 @@ Projeto desenvolvido para fins de estudo e prática em desenvolvimento web.
 
 1. Baixe ou clone os arquivos do repositório
 2. Abra o arquivo `index.html` em um navegador moderno
-3. Digite sua tarefa, selecione o horário e a data
-4. Clique em **"Adicionar"** para ver a tarefa na lista
-5. Clique no ❌ para remover a tarefa
+3. Clique em **"Gerar Senha"**
+4. Use o botão **"Copiar"** para copiar a senha gerada para a área de transferência
 
 ---
 
 ## 📱 Responsividade
 
-O projeto é compatível com **celulares, tablets e desktops**, adaptando-se a diferentes tamanhos de tela.
+O projeto é compatível com **dispositivos móveis e desktops**, adaptando-se a diferentes resoluções.
 
 ---
 
 ## 👨‍💻 Autor
 
-Matheus Augusto Cunha Rocha - 2025
+Matheus Augusto Cunha Rocha - 2025  
 [Perfil no GitHub](https://github.com/matheuscr19-coder)
