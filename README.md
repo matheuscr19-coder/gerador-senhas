@@ -49,4 +49,5 @@ O projeto é compatível com **celulares, tablets e desktops**, adaptando-se a d
 ## 👨‍💻 Autor
 
 Matheus Augusto Cunha Rocha - 2025
+
 [Perfil no GitHub](https://github.com/matheuscr19-coder)
